@@ -45,6 +45,23 @@ header .logo img {
 	vertical-align: top;
 }
 
+.TituloArticulo{
+font-size: 50px;
+
+
+}
+
+
+.LetraParrafoArticulo{  
+
+font-size: 35px;
+
+
+}
+
+
+
+
 header .logo a {
 	color:#fff;
 	text-decoration: none;
